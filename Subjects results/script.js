@@ -7,7 +7,7 @@ function alter(choice){
 				console.log(finalNumber);
 		
 		}
-		document.getElementById("message").innerHTML="";	
+		document.getElementById("message").innerHTML="For subject number "+userNumber[i]+" your result is "+finalNumber;	
 		
 }
 
